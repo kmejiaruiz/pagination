@@ -1,0 +1,15 @@
+****----------------------------------------------------¡Bienvenido!--------------------------------------------------------*********
+
+Para poder utilizar este ejemeplo de paginacón le recomendamos:
+
+1) Iniciar los servicios de de XAMPP ( Apache y Mysql)
+
+2) Debera agregar la base de datos a su phpmyadmin, esta base de datos la encontrará al descomprimir los archivos( bd)
+
+3) Las paginas index.php y paginador.php deberan de ser copiadas a la carpeta de xampp/htdocs
+
+4) Asegurese de que no exista otra pagina llamada index
+
+5) Analice el codigo, sientase libre de editarlo a su preferencia
+
+
